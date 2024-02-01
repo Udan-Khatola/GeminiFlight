@@ -1,0 +1,26 @@
+{
+  "name": "geminiflight",
+  "version": "1.0.0",
+  "description": "Open Source Flight Stack optimised for low cost and high customisability",
+  "scripts": {
+    "host": "node-red -u ./GeminiFlight-Host"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Udan-Khatola/GeminiFlight.git"
+  },
+  "keywords": [
+    "raspberry-pi",
+    "arduino",
+    "teensy",
+    "drone",
+    "webapp",
+    "nodered"
+  ],
+  "author": "Udan-Khatola",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Udan-Khatola/GeminiFlight/issues"
+  },
+  "homepage": "https://github.com/Udan-Khatola/GeminiFlight#readme"
+}
