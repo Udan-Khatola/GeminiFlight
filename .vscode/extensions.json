@@ -1,5 +1,6 @@
 {
     "recommendations": [
         "vsciot-vscode.vscode-arduino",
+        "antfu.browse-lite",
     ]
 }
