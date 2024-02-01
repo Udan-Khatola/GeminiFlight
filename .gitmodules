@@ -1,0 +1,9 @@
+[submodule "GeminiFlight-Firmware"]
+	path = GeminiFlight-Firmware
+	url = https://github.com/Udan-Khatola/GeminiFlight-Firmware.git
+[submodule "GeminiFlight-Hardware"]
+	path = GeminiFlight-Hardware
+	url = https://github.com/Udan-Khatola/GeminiFlight-Hardware.git
+[submodule "GeminiFlight-Host"]
+	path = GeminiFlight-Host
+	url = https://github.com/Udan-Khatola/GeminiFlight-Host.git
