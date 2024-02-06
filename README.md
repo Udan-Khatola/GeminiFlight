@@ -9,6 +9,14 @@ GeminiFlight consists of a flight stabilisation unit (the firmware) paired with 
 The core belief is that simplicity is the ultimate sophestication. That performance does not come from the speed of the programming language itself but from being able to develop and iterate on more efficient algorithms and architectures. GeminiFlight will continue using Arduino and Node-Red in it's stack in the forseeable future. We will not accept any PRs that prioritize performance at the cost of readability, maintainability or hackability.
 
 ## How to get started?
+
+Flash Raspberry Pi OS Lite Legacy 32-Bit on the Raspberry Pi
+
+Install Git and Essentials
+```
+sudo apt update && sudo apt install git build-essentials
+```
+
 GeminiFlight uses a git submodule structure to organise it's code.
 ```
 git clone --recurse-submodules https://github.com/Udan-Khatola/GeminiFlight.git 
