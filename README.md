@@ -14,5 +14,10 @@ GeminiFlight uses a git submodule structure to organise it's code.
 git clone --recurse-submodules https://github.com/Udan-Khatola/GeminiFlight.git 
 ```
 
+Install Node-Red and NodeJS
+```
+bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/master/deb/update-nodejs-and-nodered)
+```
+
 Open the folder in [VSCode](https://code.visualstudio.com/) & install any extensions you get prompted for.
 Open individual submodule folders for further setup instructions .
