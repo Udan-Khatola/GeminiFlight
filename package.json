@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Open Source Flight Stack optimised for low cost and high customisability",
   "scripts": {
-    "host": "node-red -u ./GeminiFlight-Host"
+    "host": "node-red-pi --max-old-space-size=256 -u ./GeminiFlight-Host"
   },
   "repository": {
     "type": "git",
