@@ -12,9 +12,9 @@ The core belief is that simplicity is the ultimate sophestication. That performa
 
 Flash Raspberry Pi OS Lite Legacy 32-Bit on the Raspberry Pi
 
-Install Git and Essentials
+Install Git
 ```
-sudo apt update && sudo apt install git build-essentials
+sudo apt update && sudo apt install git
 ```
 
 GeminiFlight uses a git submodule structure to organise it's code.
