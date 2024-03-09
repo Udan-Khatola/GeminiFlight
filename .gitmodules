@@ -2,10 +2,10 @@
 	path = GeminiFlight-Firmware
 	url = https://github.com/Udan-Khatola/GeminiFlight-Firmware.git
 	branch = master
-[submodule "GeminiFlight-Hardware"]
-	path = GeminiFlight-Hardware
-	url = https://github.com/Udan-Khatola/GeminiFlight-Hardware.git
-	branch = main
+# [submodule "GeminiFlight-Hardware"]
+# 	path = GeminiFlight-Hardware
+# 	url = https://github.com/Udan-Khatola/GeminiFlight-Hardware.git
+# 	branch = main
 [submodule "GeminiFlight-Host"]
 	path = GeminiFlight-Host
 	url = https://github.com/Udan-Khatola/GeminiFlight-Host.git
