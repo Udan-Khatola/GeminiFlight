@@ -1,4 +1,4 @@
-![GeminiFlight Logo](/Logo.png)
+![GeminiFlight Logo](Logo.png)
 
 # GeminiFlight
 Open Source Flight Stack optimised for low cost and high customisability
