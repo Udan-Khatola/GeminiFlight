@@ -1,6 +1,6 @@
 ![GeminiFlight Logo](Logo.png)
 
-# GeminiFlight - The Open Source Flight Stack optimised for low cost and high customisability
+# Drone Flight Stack Optimised for Low Cost and High Customisability
 
 ## Why GeminiFlight? Why reinvent the wheel? 
 TLDR, It's a better wheel. 
