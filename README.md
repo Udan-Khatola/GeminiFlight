@@ -1,7 +1,7 @@
 ![GeminiFlight Logo](Logo.png)
 
-# GeminiFlight
-Open Source Flight Stack optimised for low cost and high customisability
+# GEMINIFLIGHT
+## Open Source Flight Stack optimised for low cost and high customisability
 
 ## Why GeminiFlight? Why reinvent the wheel? 
 TLDR, It's a better wheel. 
