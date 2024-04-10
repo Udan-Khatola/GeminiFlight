@@ -7,6 +7,7 @@ GeminiFlight consists of a flight stabilisation unit (the firmware) paired with 
 The core belief is that simplicity is the ultimate sophestication. That performance does not come from the speed of the programming language itself but from being able to develop and iterate on more efficient algorithms and architectures. GeminiFlight will continue using Arduino and Node-Red in it's stack in the forseeable future. We will not accept any PRs that prioritize performance at the cost of readability, maintainability or hackability.
 
 ## How to get started?
+[Join Our Discord Server](https://discord.gg/HdWe3RSFJ6)
 
 Flash Raspberry Pi OS Lite Legacy 32-Bit on the Raspberry Pi
 
@@ -27,5 +28,3 @@ bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/mast
 
 Open the folder in [VSCode](https://code.visualstudio.com/) & install any extensions you get prompted for.
 Open individual submodule folders for further setup instructions .
-
-## [Join Our Discord Server](https://discord.gg/HdWe3RSFJ6)
