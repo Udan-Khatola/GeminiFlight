@@ -8,27 +8,27 @@ The core belief is that simplicity is the ultimate sophestication. That performa
 
 ## How to get started?
 
-### Step 1
+### Step 1:
 [Join Our Discord Server](https://discord.gg/HdWe3RSFJ6)
 
-### Step 2
+### Step 2:
 Flash Raspberry Pi OS Lite Legacy 32-Bit on the Raspberry Pi
 
-### Step 3
+### Step 3:
 Install Git
 ```
 sudo apt update && sudo apt install git
 ```
-### Step 4
+### Step 4:
 GeminiFlight uses a git submodule structure to organise it's code.
 ```
 git clone --recurse-submodules https://github.com/Udan-Khatola/GeminiFlight.git 
 ```
-### Step 5
+### Step 5:
 Install Node-Red and NodeJS
 ```
 bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/master/deb/update-nodejs-and-nodered)
 ```
-### Step 6
+### Step 6:
 Open the folder in [VSCode](https://code.visualstudio.com/) & install any extensions you get prompted for.
 Open individual submodule folders for further setup instructions .
