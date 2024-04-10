@@ -12,7 +12,8 @@ The core belief is that simplicity is the ultimate sophestication. That performa
 [Join Our Discord Server](https://discord.gg/HdWe3RSFJ6)
 
 ### Step 2:
-Flash Raspberry Pi OS Lite Legacy 32-Bit on the Raspberry Pi
+Download [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
+Flash "Raspberry Pi OS Lite Legacy (32-Bit)" on the Raspberry Pi
 
 ### Step 3:
 Install Git
