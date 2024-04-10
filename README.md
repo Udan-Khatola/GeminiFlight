@@ -27,3 +27,5 @@ bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/mast
 
 Open the folder in [VSCode](https://code.visualstudio.com/) & install any extensions you get prompted for.
 Open individual submodule folders for further setup instructions .
+
+## [Join Our Discord Server](https://discord.gg/HdWe3RSFJ6)
